@@ -1,8 +1,3 @@
-package main.java;
-
-/**
- * Created by 41988 on 2017/5/5.
- */
 public class BowlingGame {
 
     static String str;
@@ -74,4 +69,3 @@ public class BowlingGame {
         return score;
     }
 }
-
